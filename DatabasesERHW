@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2022-04-07T21:00:15.657Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" version="17.4.1" etag="AnQdNTgfSXe_6TY8wJoF" type="github"><diagram id="UmRaXwgy8ixrw_JavH9f">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-07T21:34:26.466Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="6I8RGgVtomtuvFVo_owd" version="17.4.1" type="github">
+  <diagram id="UmRaXwgy8ixrw_JavH9f" name="Page-1">
+    <mxGraphModel dx="834" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7T8jYW3L6e1CoyLyK39B-1" value="&lt;u&gt;Email_Address&lt;br&gt;&lt;/u&gt;&amp;nbsp;&lt;br&gt;Name&lt;br&gt;&lt;br&gt;Physical_Address" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="140" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7T8jYW3L6e1CoyLyK39B-2" value="&lt;i&gt;User&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7T8jYW3L6e1CoyLyK39B-3" value="Shop_ID, Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="135" width="350" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7T8jYW3L6e1CoyLyK39B-4" value="Shop Entitites" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="100" width="350" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7T8jYW3L6e1CoyLyK39B-5" value="Merchandize Entities" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="290" width="490" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7T8jYW3L6e1CoyLyK39B-6" value="&lt;u&gt;Merchandise_ID&lt;br&gt;&lt;br&gt;&lt;/u&gt;Title&lt;br&gt;&lt;br&gt;Description&lt;br&gt;&lt;br&gt;Bidding_start_time&lt;br&gt;&lt;br&gt;Bidding_end_time&lt;br&gt;&lt;br&gt;Initial_asking_price" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="320" width="490" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="7T8jYW3L6e1CoyLyK39B-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;strokeColor=default;" edge="1" parent="1" source="7T8jYW3L6e1CoyLyK39B-8" target="7T8jYW3L6e1CoyLyK39B-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7T8jYW3L6e1CoyLyK39B-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;strokeColor=default;" edge="1" parent="1" source="7T8jYW3L6e1CoyLyK39B-8" target="7T8jYW3L6e1CoyLyK39B-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7T8jYW3L6e1CoyLyK39B-8" value="Owner" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7T8jYW3L6e1CoyLyK39B-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=default;" edge="1" parent="1" source="7T8jYW3L6e1CoyLyK39B-11" target="7T8jYW3L6e1CoyLyK39B-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7T8jYW3L6e1CoyLyK39B-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=default;" edge="1" parent="1" source="7T8jYW3L6e1CoyLyK39B-11" target="7T8jYW3L6e1CoyLyK39B-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7T8jYW3L6e1CoyLyK39B-11" value="Many to many (users to merch ent.)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="280" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="7T8jYW3L6e1CoyLyK39B-17" value="Price&lt;br&gt;&lt;br&gt;Timestamp&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7T8jYW3L6e1CoyLyK39B-18" value="Card_ID&lt;br&gt;&lt;br&gt;Card Number&lt;br&gt;&lt;br&gt;Card Name&lt;br&gt;&lt;br&gt;Expiry Date&lt;br&gt;&lt;br&gt;CCV&lt;br&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="850" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="7T8jYW3L6e1CoyLyK39B-19" value="&lt;i&gt;Credit Cards&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="810" width="120" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
