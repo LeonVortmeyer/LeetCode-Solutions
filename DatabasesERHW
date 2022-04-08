@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-08T01:02:52.872Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="-TGttuCi4UzPHC70vSRp" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-08T01:16:02.957Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="_CDl1Vr51NePcn1zhm_A" version="17.4.1" type="github">
   <diagram id="UmRaXwgy8ixrw_JavH9f" name="Page-1">
-    <mxGraphModel dx="2038" dy="1191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,7 +30,7 @@
         <mxCell id="7T8jYW3L6e1CoyLyK39B-19" value="&lt;i&gt;Credit Cards&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="520" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7T8jYW3L6e1CoyLyK39B-25" value="Add a pay action&lt;br&gt;&lt;br&gt;Can you have a table pull from a relationship?&lt;br&gt;&lt;br&gt;Can we add ID to merchandise?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7T8jYW3L6e1CoyLyK39B-25" value="Add a pay action&lt;br&gt;&lt;br&gt;Can you have a table pull from a relationship?&lt;br&gt;&lt;br&gt;Can we add ID to merchandise?&lt;br&gt;&lt;br&gt;Consider making bids and entity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="830" width="350" height="160" as="geometry" />
         </mxCell>
         <mxCell id="7T8jYW3L6e1CoyLyK39B-26" value="Questions:&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
