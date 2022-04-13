@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T20:46:50.536Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="J5HE-QycJsSn-CXrjAAm" version="17.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-13T20:48:49.245Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="1V9BE_kkvrE2FF3s8uoW" version="17.4.4" type="github">
   <diagram id="HTd6NpDFPF3AyQ_qRTOe" name="Page-1">
     <mxGraphModel dx="4173" dy="3109" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -116,10 +116,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i-OPcQFoMx32uSH2EEUA-3" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="580" y="-1028" width="380" height="140" as="geometry" />
+          <mxGeometry x="593" y="-1044" width="380" height="171" as="geometry" />
         </mxCell>
-        <mxCell id="Z7A1-AqwAlP4CPiGa5yh-20" value="&lt;br&gt;&lt;u&gt;Account_ID&lt;br&gt;&lt;/u&gt;&lt;br&gt;Balances&lt;br&gt;&lt;br&gt;API_Keys&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="i-OPcQFoMx32uSH2EEUA-3" vertex="1">
-          <mxGeometry y="40" width="380" height="100" as="geometry" />
+        <mxCell id="Z7A1-AqwAlP4CPiGa5yh-20" value="&lt;br&gt;&lt;u&gt;Account_ID&lt;br&gt;&lt;/u&gt;&lt;br&gt;Balances&lt;br&gt;&lt;br&gt;API_Key_Public&lt;br&gt;&lt;br&gt;API_Key_Secret" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="i-OPcQFoMx32uSH2EEUA-3" vertex="1">
+          <mxGeometry y="40" width="380" height="131" as="geometry" />
         </mxCell>
         <mxCell id="Z7A1-AqwAlP4CPiGa5yh-21" value="Trading Accounts" style="rounded=0;whiteSpace=wrap;html=1;" parent="i-OPcQFoMx32uSH2EEUA-3" vertex="1">
           <mxGeometry width="380" height="30" as="geometry" />
