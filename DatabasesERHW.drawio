@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T18:02:25.735Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="14W7E_1Wj-2VjSr2LF2Z" version="17.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-13T18:12:23.518Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="Vkb5djNbrhtmLlu6fhAA" version="17.4.4" type="github">
   <diagram id="UmRaXwgy8ixrw_JavH9f" name="Page-1">
-    <mxGraphModel dx="2767" dy="2283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2184" dy="1100" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -126,36 +126,34 @@
         <mxCell id="9G5OivVOposb8-G9TisL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="9G5OivVOposb8-G9TisL-15" target="7T8jYW3L6e1CoyLyK39B-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="450" y="481" />
-              <mxPoint x="450" y="465" />
+              <mxPoint x="343" y="466" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9G5OivVOposb8-G9TisL-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="9G5OivVOposb8-G9TisL-15" target="7T8jYW3L6e1CoyLyK39B-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="515" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="9G5OivVOposb8-G9TisL-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" parent="1" source="9G5OivVOposb8-G9TisL-15" target="9G5OivVOposb8-G9TisL-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9G5OivVOposb8-G9TisL-15" value="Ratings" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="433" width="120" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="9G5OivVOposb8-G9TisL-18" value="&lt;u style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;Buyer_ID (Email)&lt;/u&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="430" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9G5OivVOposb8-G9TisL-19" value="&lt;u style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;Seller_ID (Email)&lt;/u&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="533" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9G5OivVOposb8-G9TisL-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" parent="1" source="9G5OivVOposb8-G9TisL-20" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="600" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="253" y="433" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="9G5OivVOposb8-G9TisL-20" value="Buyer Rating&lt;br&gt;&lt;br&gt;Seller Rating&lt;br&gt;&lt;br&gt;Timestamp&lt;br&gt;&lt;br&gt;Text Review" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="610" width="120" height="120" as="geometry" />
+          <mxGeometry x="253" y="610" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="C35VPbbuawxTOnqzn6j4-4" value="&lt;span style=&quot;text-align: center ; text-indent: 0px&quot;&gt;&lt;font face=&quot;helvetica&quot;&gt;(Name not necessarily unique in problem statement, so we make shop a weak entity) Name should also have a dotted underline, but&amp;nbsp;Draw.io does not have this feature&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1290" y="62.5" width="350" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="C35VPbbuawxTOnqzn6j4-5" value="Buyer_ID (Email)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="355" y="447" width="101" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="C35VPbbuawxTOnqzn6j4-6" value="Seller_ID (Email)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="352" y="522" width="101" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
